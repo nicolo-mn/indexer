@@ -14,7 +14,7 @@ This Java application provides a service for indexing text files using the MVC (
 To run the application, use the following command:
 
 ```sh
-java -jar indexer.jar
+java -jar app.jar
 ```
 
 ### Build
