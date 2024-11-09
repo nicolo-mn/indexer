@@ -6,7 +6,7 @@ This Java application provides a service for indexing text files using the MVC (
 
 - **Indexing**: Specify files and directories to be indexed.
 - **Querying**: Search for files containing a given word.
-- **Extensible Tokenization**: Easily extend the tokenization algorithm.
+- **Extensible Tokenization**: Easily extend the tokenization algorithm by implementing the indexer.model.tokenization.Tokenizer interface.
 - **Consecutive Requests**: Serve multiple requests in a single session.
 
 ## Usage
